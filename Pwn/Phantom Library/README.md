@@ -3,7 +3,7 @@
 **Category:** PWN
 **Difficulty:** Hard
 **Techniques:** Tcache poisoning · FSOP (House of Apple 2) · ORW ROP · seccomp
-**Libc:** Ubuntu GLIBC 2.35-0ubuntu3.13
+**Libc:** Ubuntu GLIBC 2.35-0ubuntu3.13 (added a gadget)
 
 ---
 
