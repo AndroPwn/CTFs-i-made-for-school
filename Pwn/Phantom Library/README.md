@@ -244,4 +244,4 @@ gcc -O0 -fstack-protector-all -fPIE -pie \
 
 
 
-Flag format: `f1_g{...}`
+Flag format: `f1_g{this_is_baby_stuff}`
